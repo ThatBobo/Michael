@@ -1,8 +1,8 @@
 {
-  "name": "Demo",
+  "name": "Michael",
   "version": "1.0.0",
-  "description": "Demo AI: A platform",
-  "author": "The Besties",
+  "description": "",
+  "author": "ThatBobo",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
