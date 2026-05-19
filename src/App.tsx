@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/Michael">
       <Routes>
       </Routes>
     </BrowserRouter>
